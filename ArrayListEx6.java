@@ -10,6 +10,7 @@ public class ArrayListEx6 {
 		Product p2=new Product("VaccumeCleaner", 50660.90);
 		Product p3=new Product("AirPurifier", 30060.90);
 		Product p4=new Product("AC", 30060.90);
+		Product p5=new Product("Induction",1689);
 		
 		ArrayList<Product> a1=new ArrayList<Product>();
 		a1.add(p1);
