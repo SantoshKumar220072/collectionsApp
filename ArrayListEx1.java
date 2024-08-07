@@ -15,7 +15,7 @@ public class ArrayListEx1 {
 		System.out.println(objs);//internally calls toString method of wrapper class which overridden such a way that  it will return data
 
 		System.out.println(objs.toString());//it will give same o/p as previous
-		
+		boolean flag=true;
 		
 	}
 
