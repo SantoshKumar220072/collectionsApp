@@ -6,7 +6,8 @@ public class ArrayListEx3 {
 
 	public static void main(String[] args) {
 		
-	
+	int a=33;
+	int b=54;
 
 	}
 
